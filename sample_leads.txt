@@ -1,0 +1,14 @@
+fullname: Hollie neegy Probert
+date_of_birth: 20/04/1996
+bank: Not provided
+address: 22 carver road , Lincolnshire, DN401DS
+postcode: DN901DS
+phone: 0740999999
+email: hollieprobert84@onniiga.com
+sort_code: 09-01-28
+account_number: 35467255
+
+fullname: Dummy Example
+bank: Not provided
+sort_code: Not provided
+account_number: 00000000
